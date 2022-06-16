@@ -1,0 +1,10 @@
+﻿Exercise
+
+1. maximum size of a string is 2GB = about one billion characters
+2. SecureString type text data shorter than string, idem. for visibility
+3. String builder is recommended when concatenating more than therre string variables
+4. LinkedList<T> is a general-purpose linked list. It supports enumerators
+5. SortedDictonary<T> uses less memory than SortedDictionary<T>
+6. Localization : affects the user ingerface of application
+Globalization : affects the data of application
+Internationalization : Localization and Globalizatoin
